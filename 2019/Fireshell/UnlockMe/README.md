@@ -1,7 +1,7 @@
 # Unlockme
 
 ## Writeup
-In this challenge we are given a PE executable which uses Delphi template. Our input is of size 25 characters.
+In this challenge we are given a PE executable which uses Delphi template. Our input is of 25 characters in size.
 
 These are steps that I took while solving the challenge:
 
