@@ -19,7 +19,7 @@ There are 5 stages in the challenge and all the input is taken as integer(there 
 Input for stage 1: 2033218911
 
 Input for stage 2: 1664380511
-.
+
 Input for stage 3: 1647600432
 
 Input for stage 4: 1835360107
